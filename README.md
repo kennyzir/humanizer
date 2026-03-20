@@ -1,4 +1,4 @@
-# claw0x-humanizer
+# AI Text Humanizer
 
 > Remove signs of AI-generated writing from text via the Claw0x API. Use when the user asks to humanize text, make AI writing sound natural, remove AI patterns, rewrite to avoid AI detection, or clean up robotic-sounding content. Based on Wikipedia's 24 "Signs of AI writing" patterns. LLM-powered with regex fallback.
 
@@ -19,7 +19,7 @@ Built for OpenClaw, compatible with Claude, GPT-4, and other agent frameworks.
 Simply tell your agent:
 
 ```
-Install the "claw0x-humanizer" skill from Claw0x
+Install the "AI Text Humanizer" skill from Claw0x
 ```
 
 Or use this connection prompt:
